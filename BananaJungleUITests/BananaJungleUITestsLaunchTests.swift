@@ -1,9 +1,3 @@
-//
-//  BananaJungleUITestsLaunchTests.swift
-//  BananaJungleUITests
-//
-//  Created by Артём Коротков on 15.12.2025.
-//
 
 import XCTest
 
